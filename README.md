@@ -9,6 +9,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Alessandro-Battiato&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandro-Battiato&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![GitHub Snake](dist/github-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Alessandro-Battiato&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
